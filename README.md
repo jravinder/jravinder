@@ -72,8 +72,5 @@ Vague problems → shipped products by end of day. Agentic engineering across mu
 ---
 
 <p align="center">
-  <a href="https://aisoft.us"><img src="https://img.shields.io/badge/-aisoft.us-B45309?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jravinder"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jravinderreddy@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/jravinder/jravinder/blob/main/Ravinder_Jilkapally_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-18181B?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://aisoft.us">aisoft.us</a> · <a href="https://linkedin.com/in/jravinder">LinkedIn</a> · <a href="mailto:jravinderreddy@gmail.com">Email</a> · <a href="https://github.com/jravinder/jravinder/blob/main/Ravinder_Jilkapally_Resume.pdf">Resume</a>
 </p>
