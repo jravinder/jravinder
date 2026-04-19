@@ -54,3 +54,4 @@ Build at the speed of light. Take vague problems and turn them into shipped prod
 ---
 
 <sub>jravinderreddy@gmail.com · [aisoft.us](https://aisoft.us) · [LinkedIn](https://linkedin.com/in/jravinder)</sub>
+
