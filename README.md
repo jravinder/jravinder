@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-📍 **Austin, TX** | 🏢 **Director, GenAI Product & Engineering** | 🎓 **MS CS, Wayne State** | 🇮🇳 **JNTU Hyderabad**
+📍 **Austin, TX** | 🏢 **Director, GenAI Product & Engineering** | 🚀 **Builder**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
