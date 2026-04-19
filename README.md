@@ -15,59 +15,59 @@
 
 ---
 
-### Who I am
+### About
 
-Engineering leader. 18+ years shipping platforms across data, ML, and GenAI. I take products from zero to production and build the teams that scale them. Currently leading GenAI engineering at [Xpanse AI](https://aisoft.us), where I built a multi-tenant AI platform from scratch serving enterprise clients in mortgage and financial services.
-
-Previously spent 6 years at [Rocket Mortgage](https://www.rocketmortgage.com/) building data platforms, ML pipelines, and engineering culture from individual contributor through architecture lead. The platform I built was adopted across Rocket Companies.
-
-Before that: R&D at [Dynatrace](https://www.dynatrace.com/) (real-time analytics, anomaly detection) and early career building web platforms and semantic search systems.
+Engineering leader with 18+ years shipping platforms across data, ML, and GenAI. I build AI systems that solve real problems at scale, lead teams that ship, and turn ambiguous ideas into production products. Currently at [Xpanse AI](https://aisoft.us) where I built a multi-tenant GenAI platform from scratch: call intelligence (90 min → <5 min), document intelligence (800+ types, 90%+ accuracy), and VLM research pipelines with autonomous optimization. Team of 45+.
 
 I also build across sports, energy, photography, biotech, and education. Two-time [NVIDIA](https://developer.nvidia.com/) hackathon finalist.
 
 ---
 
-### 💼 What I do at [Xpanse AI](https://aisoft.us)
-
-| What | Impact |
-|:-----|:-------|
-| Multi-tenant GenAI platform | RAG, vector search, multi-agent orchestration. Built from scratch. |
-| Call Intelligence | 90 min review → <5 min. 2M+ minutes/month. |
-| Document Intelligence | 800+ doc types, 90%+ accuracy, 1M+ pages/month. [Claude](https://anthropic.com), [Gemini](https://deepmind.google/technologies/gemini/), Gemma 4 |
-| VLM research pipeline | Autoresearch loop: prompt optimization against ground truth, zero manual intervention |
-| Team | 45+ across SWE, ML, DS, QA, DevOps, PM |
-| Clients | Freedom Mortgage, Cenlar, Village Capital, Mortgage Connect, Archwell |
-
----
-
 ### 🏗️ Projects
 
-| | Project | What | |
-|:-|:--------|:-----|:-|
-| 📸 | **[Studio Copilot](https://raw-curated.vercel.app)** | AI photography. 182 photos → 43 highlights in ~2s. Zero data leaves your machine. | 🏆 Runner-up, [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) |
-| ⚡ | **[Undervolt](https://undervolt-atx.vercel.app)** | 2.3M+ Austin permits analyzed. Surfaced 22:1 solar-to-battery ratio unknown to city planners. | 🥇 1st place, [NVIDIA DGX AITX](https://developer.nvidia.com/) |
-| 🏏 | **[RefereAI](https://github.com/jravinder/sports-ai)** | Edge AI sports referee. [Cosmos Reason 2](https://developer.nvidia.com/cosmos) for physical reasoning over video. 5 sports. | [Jetson AGX Orin](https://developer.nvidia.com/embedded/jetson-agx-orin) |
-| 🤖 | **[Sideline](https://sideline-beige.vercel.app)** | AI sports robot. Qwen VLM + confidence-threshold referee fallback. 4 people, 6 hours. | [Nebius.Build SF](https://nebius.com/) |
-| 🏅 | **[CoachClaw](https://coachclaw-fresh.vercel.app)** | On-device AI coaching on [GB10](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/). 259K crime records for local safety context. | GTC Hack for Impact |
-| 🎨 | **[PromptSmith](https://github.com/jravinder/promptsmith)** | Reverse-engineer the creative recipe from any image. | GTC Hack to Create |
-| 💼 | **[Job Copilot](https://github.com/jravinder/job_copilot)** | AI job search. Resume fit, cover letters, interview prep. | [Gemini](https://deepmind.google/technologies/gemini/) |
-| 📚 | **[StudyPal](https://github.com/jravinder/studypal-voice)** | AI homework assistant. Voice tutoring via [Gemini Live](https://ai.google.dev/), Schoology sync. K–8. | |
-| 🏠 | **[Homenest](https://github.com/jravinder/homenest)** | Home network intelligence. Device monitoring, analytics, [Telegram](https://telegram.org/) alerts. | |
+🏆 **[Studio Copilot](https://raw-curated.vercel.app)** — AI photography pipeline. 182 photos → 43 highlights in ~2s. Runner-up, [NVIDIA GTC 2026](https://www.nvidia.com/gtc/). Showcased on NVIDIA Developer Live.
+
+🥇 **[Undervolt](https://undervolt-atx.vercel.app)** — GPU-accelerated urban intelligence. 2.3M+ Austin permits. Surfaced 22:1 solar-to-battery ratio unknown to city planners. 1st place, [NVIDIA DGX AITX 2025](https://developer.nvidia.com/).
+
+🏏 **[RefereAI](https://github.com/jravinder/sports-ai)** — Edge AI sports referee using [Cosmos Reason 2](https://developer.nvidia.com/cosmos) for physical chain-of-thought over video. 5 sports, 3 analysis modes. [Jetson AGX Orin](https://developer.nvidia.com/embedded/jetson-agx-orin).
+
+🤖 **[Sideline](https://sideline-beige.vercel.app)** — Modular AI sports robot. Qwen VLM + confidence-threshold fallback. 4 people, 6-hour build. [Nebius.Build SF](https://nebius.com/).
+
+🏅 **[CoachClaw](https://coachclaw-fresh.vercel.app)** — On-device AI coaching on [NVIDIA GB10](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/). 259K crime records for safety context. GTC Hack for Impact.
+
+🎨 **[PromptSmith](https://github.com/jravinder/promptsmith)** — Reverse-engineer the creative recipe from any image. GTC Hack to Create.
+
+💼 **[Job Copilot](https://github.com/jravinder/job_copilot)** — AI job search: resume fit, cover letters, interview prep. [Gemini](https://deepmind.google/technologies/gemini/).
+
+📚 **[StudyPal](https://github.com/jravinder/studypal-voice)** — AI homework assistant with voice tutoring via [Gemini Live](https://ai.google.dev/). K–8.
+
+🏠 **[Homenest](https://github.com/jravinder/homenest)** — Home network intelligence dashboard.
+
+🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app)** — Open-source research workspace for any disease. Powered by [Gemma](https://blog.google/technology/developers/gemma-4/). ([repo](https://github.com/jravinder/biotech-research-hub))
+
+🧪 **[HD Research Hub](https://hd-research-agent.vercel.app)** — First workspace. 75 papers, 42 drug candidates, 5 [AlphaFold](https://alphafold.ebi.ac.uk/) targets. ([repo](https://github.com/jravinder/hd-research-agent))
 
 ---
 
-### 🧬 Biotech research (new)
+### 💼 Professional
 
-Open-source AI so anyone can research a disease with the same tools a lab would use.
+**Director, GenAI Product & Engineering — [Xpanse AI](https://aisoft.us)** `2024 – Present`
+Multi-tenant GenAI platform. Call intelligence, document intelligence, VLM research pipelines. 45+ team. Clients: Freedom Mortgage, Cenlar, Village Capital, Mortgage Connect.
 
-- 🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app)** — Configurable workspace for any disease. Powered by [Gemma](https://blog.google/technology/developers/gemma-4/). ([repo](https://github.com/jravinder/biotech-research-hub))
-- 🧪 **[HD Research Hub](https://hd-research-agent.vercel.app)** — First workspace. 75 papers, 42 drug candidates, 5 [AlphaFold](https://alphafold.ebi.ac.uk/) targets. ([repo](https://github.com/jravinder/hd-research-agent))
+**Founder — [AISOFT LLC](https://aisoft.us)** `2022 – Present`
+GenAI consulting for startups and enterprises.
+
+**Engineering & Architecture Lead — [Rocket Mortgage](https://www.rocketmortgage.com/)** `2017 – 2023`
+Built the data platform from scratch. Scaled to Rocket Central across the family of companies. Data Mesh, ML pipelines, team of 15.
+
+**Senior SWE / R&D — [Dynatrace](https://www.dynatrace.com/)** `2011 – 2017`
+Real-time analytics, anomaly detection, APM products. Employee of the Quarter.
 
 ---
 
 ### ⚙️ How I work
 
-Vague problems → shipped products by end of day. Agentic engineering across multiple agents. Product, engineering, and architecture at the same time. Every side project teaches something that goes straight back to production.
+Vague problems → shipped products by end of day. Agentic engineering across multiple agents. Product, engineering, and architecture at the same time. Every project teaches something that goes straight back to production.
 
 ---
 
