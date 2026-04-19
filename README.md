@@ -23,7 +23,7 @@ Previously spent 6 years at [Rocket Mortgage](https://www.rocketmortgage.com/) b
 
 Before that: R&D at [Dynatrace](https://www.dynatrace.com/) (real-time analytics, anomaly detection) and early career building web platforms and semantic search systems.
 
-On nights and weekends I build full products across domains I have no background in. Two-time [NVIDIA](https://developer.nvidia.com/) hackathon finalist.
+I also build across sports, energy, photography, biotech, and education. Two-time [NVIDIA](https://developer.nvidia.com/) hackathon finalist.
 
 ---
 
