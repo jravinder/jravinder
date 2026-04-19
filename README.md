@@ -34,6 +34,8 @@ I also build across sports, energy, photography, biotech, and education. Two-tim
 
 🏠 **[Homenest](https://github.com/jravinder/homenest)** — Home network intelligence dashboard.
 
+🛠️ **[Claude Config](https://github.com/jravinder/claude-config)** — Open-source [Claude Code](https://claude.ai/code) skills: engineering workflow, research clarity rules. Clone to any machine.
+
 🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app?utm_source=github&utm_medium=profile)** — Open-source research workspace for any disease. Powered by [Gemma](https://blog.google/technology/developers/gemma-4/). ([repo](https://github.com/jravinder/biotech-research-hub))
 
 🧪 **[HD Research Hub](https://hd-research-agent.vercel.app?utm_source=github&utm_medium=profile)** — First workspace. 75 papers, 42 drug candidates, 5 [AlphaFold](https://alphafold.ebi.ac.uk/) targets. ([repo](https://github.com/jravinder/hd-research-agent))
