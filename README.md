@@ -8,8 +8,9 @@
 
 ### About
 
-Engineering leader with 18+ years shipping platforms across data, ML, and GenAI. I build AI systems that solve real problems at scale, lead teams that ship, and turn ambiguous ideas into production products. Currently at [Xpanse AI](https://aisoft.us?utm_source=github&utm_medium=profile) where I built a multi-tenant GenAI platform from scratch: call intelligence (90 min → <5 min), document intelligence (800+ types, 90%+ accuracy), and VLM research pipelines with autonomous optimization. Team of 45+.
+Engineering leader with 18+ years shipping platforms across data, ML, and GenAI. I build AI systems that solve real problems at scale, lead teams that ship, and turn ambiguous ideas into production products. Currently at XPANSE where I built a multi-tenant GenAI platform from scratch: call intelligence (90 min → <5 min), document intelligence (800+ types, 90%+ accuracy), and VLM research pipelines with autonomous optimization. Team of 45+.
 
+Also helping startups at [AISOFT](https://aisoft.us?utm_source=github&utm_medium=profile)
 I also build across sports, energy, photography, biotech, and education. Two-time [NVIDIA](https://developer.nvidia.com/) hackathon finalist.
 
 ---
