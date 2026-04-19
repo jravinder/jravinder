@@ -1,78 +1,114 @@
 # Hi, I'm Ravi 👋
 
-📍 **Austin, TX** | 🏗️ **Engineering Leader** | 🧬 **AI + Biotech** | 🚀 **Builder**
+📍 **Austin, TX** | 🏢 **Director, GenAI Product & Engineering** | 🎓 **MS CS, Wayne State** | 🇮🇳 **JNTU Hyderabad**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Gemma](https://img.shields.io/badge/-Gemma_4-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=llama&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-> 18 years of shipping. From data platforms at Rocket Mortgage to GenAI products at Xpanse AI to open-source research tools for rare diseases. I build things on nights and weekends not because I have to, but because most of the important problems haven't been touched yet.
-
-🏢 **Director, GenAI Product & Engineering** at [Xpanse AI](https://aisoft.us) — Multi-tenant GenAI platform, 45+ team, clients: Freedom Mortgage, Cenlar, Village Capital
-
-🏆 **Two-time NVIDIA hackathon finalist** — 1st place DGX AITX 2025, runner-up GTC 2026
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🧬 Biotech Research
+### Who I am
 
-Building open-source AI tools so anyone can research a disease like a scientist would.
+Engineering leader with 18+ years across data platforms, ML infrastructure, and GenAI. I take products from 0 to 1, scale them, and build the teams that keep them running. From Rocket Mortgage to Xpanse AI, every role follows the same pattern: find the hardest problem in the room, build the thing that solves it, and bring everyone along.
 
-- 🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app)** — Open-source platform. Configure for any disease. Powered by Gemma. ([repo](https://github.com/jravinder/biotech-research-hub))
-- 🧪 **[HD Research Hub](https://hd-research-agent.vercel.app)** — First workspace. 75 papers analyzed, 42 drug candidates, 5 AlphaFold targets. $0 cost. ([repo](https://github.com/jravinder/hd-research-agent))
+I blend hands-on technical depth (distributed systems, multimodal inference, agentic pipelines, fine-tuning open models) with executive discipline (OKRs, platform strategy, compliance, cost governance). I'm equally comfortable explaining architecture to a board and writing the code myself.
 
-| Experiment | Scale | What Gemma found |
-|:-----------|:------|:-----------------|
-| [#4 Somatic CAG drug screen](https://hd-research-agent.vercel.app/experiment-4.html) | 75 papers, 4.97M chars | 42 drug candidates across 5 validated targets |
-| [#3 Gemma 4 vs Llama 3.1](https://hd-research-agent.vercel.app/experiment-3.html) | 16 full papers | Systems-level reasoning the smaller model missed |
-| [#2 Full-text analysis](https://hd-research-agent.vercel.app/experiment-2.html) | 16 full papers | 3 targets invisible from abstracts alone |
-| [#1 Proof of concept](https://hd-research-agent.vercel.app/experiment-1.html) | 22 abstracts | Can AI extract drug targets from HD papers? Yes. |
+On nights and weekends I build full products across domains I have no background in. Sports officiating, energy analytics, photography, biotech research, education. Every one teaches something that goes straight back to production. Two-time NVIDIA hackathon finalist.
 
 ---
 
-## 🏗️ Projects
+### 💼 Professional
 
-I build full products across domains I have no background in. Every one pushes deeper into agentic AI. Every learning goes straight back to production.
+**Director, GenAI Product & Engineering — [Xpanse AI](https://aisoft.us)** `May 2024 – Present`
 
-| | Project | What | |
-|:-|:--------|:-----|:-|
-| 📸 | **[Studio Copilot](https://raw-curated.vercel.app)** | AI photography: raw to curated highlights | 🏆 Runner-up, NVIDIA GTC 2026 |
-| ⚡ | **[Undervolt](https://undervolt-atx.vercel.app)** | Austin energy intelligence on Jetson AGX Orin | 🥇 1st place, DGX AITX 2025 |
-| 🏏 | **[RefereAI](https://github.com/jravinder/sports-ai)** | Edge AI sports officiating: cricket, tennis, pickleball | DeepStream + Jetson |
-| 📊 | **[Sideline](https://sideline-beige.vercel.app)** | Sports analytics platform | |
-| 🏅 | **[CoachClaw](https://coachclaw-fresh.vercel.app)** | AI youth sports coaching agent | GTC Hack for Impact |
-| 🎨 | **[PromptSmith](https://github.com/jravinder/promptsmith)** | Reverse-engineer the creative recipe from any image | GTC Hack to Create |
-| 💼 | **[Job Copilot](https://github.com/jravinder/job_copilot)** | AI job search: resume fit, cover letters, outreach | |
-| 🏠 | **[Homenest](https://github.com/jravinder/homenest)** | Home network intelligence dashboard | |
+Built the company's AI platform and product suite from scratch.
+
+| What | Impact |
+|:-----|:-------|
+| Multi-tenant GenAI platform | Text, audio, document, metadata pipelines with RAG, vector search, multi-agent orchestration |
+| Call Intelligence | Review time: 90 min → <5 min. 2M+ minutes/month |
+| Document Intelligence | 800+ doc types, 90%+ accuracy, 1M+ pages/month. Claude, Gemini, Gemma 4, DeepSeek |
+| VLM research pipeline | Autoresearch loop: prompt optimization against ground truth, zero manual intervention |
+| Agentic IDP platform | AI Studio, multi-model comparison, triage workbench, experiment tracking |
+| Snowflake Cortex | Real-time insights, vector search, LLM analytics for Ops/Compliance/Sales |
+| Team | 45+ across SWE, ML, DS, QA, DevOps, PM. Career ladders, hiring pipelines, eng standards |
+| Clients | Freedom Mortgage, Cenlar, Village Capital, Mortgage Connect, Archwell, Moder, Logan |
+
+**Founder — [AISOFT LLC](https://aisoft.us)** `Jan 2022 – Present`
+
+GenAI, data, and AI/ML strategy consulting. Advisor to early-stage startups on architecture, team formation, and product roadmaps.
+
+**Engineering & Architecture Lead — Rocket Mortgage** `Jul 2020 – Nov 2023`
+
+Built the data platform from the ground up. Impact was clear enough that leadership created **Rocket Central** to scale it across Rocket Homes, Rocket Auto, and Amrock. Led Data Mesh adoption (50% increase in data product usage). Team of 5–15 engineers, data scientists, and architects.
+
+**Big Data Architect → Senior SWE — Rocket Mortgage** `Oct 2017 – Jul 2020`
+
+Data governance, data lake, ML pipeline frameworks. Kafka, Spark, Cloudera, AWS.
+
+**Senior SWE — Dynatrace (Compuware)** `Aug 2014 – Oct 2017`
+
+R&D on large-scale real-time analytics. Built anomaly detection, pattern recognition, and alerting with Kafka, Spark, Cassandra. Won Employee of the Quarter. Introduced CI/CD, ELK stack, and automated testing.
+
+**Software Engineer — Compuware** `Jul 2011 – Aug 2014`
+
+Big Data analytics for APM products. Hadoop, MongoDB, Elasticsearch, REST APIs.
+
+**Programmer Analyst — IDEACore** `Oct 2008 – Jul 2011`
+
+Web/desktop development. Introduced semantic web (RDF, OWL) for e-commerce recommendation engine (patented).
 
 ---
 
-## 💼 At Xpanse AI
+### 🏗️ Side projects & hackathons
 
-Building AI products that are in production, at scale, solving real problems:
-
-- 📞 **Call Intelligence** — Review time: 90 min → under 5 min. 2M+ minutes/month processed.
-- 📄 **Document Intelligence** — 800+ document types, 90%+ accuracy, 1M+ pages/month. Multimodal LLMs (Claude, Gemini, InternVL3).
-- 🔍 **VLM Classification Research** — Autoresearch loop that optimizes prompts against ground truth automatically.
-- 🏗️ **Team** — Built and manage 45+ across SWE, ML, DS, QA, DevOps, PM.
-- 🏦 **Clients** — Freedom Mortgage, Cenlar, Village Capital, Mortgage Connect, Archwell, Moder, Logan.
-
-Previously: Data platform at **Rocket Mortgage** → scaled to **Rocket Central** across the family of companies.
+| | Project | What | Recognition |
+|:-|:--------|:-----|:------------|
+| 📸 | **[Studio Copilot](https://raw-curated.vercel.app)** | AI photography pipeline. 182 photos → 26 clusters → 43 highlights in ~2s. | 🏆 Runner-up, NVIDIA GTC 2026. Showcased on NVIDIA Developer Live. |
+| ⚡ | **[Undervolt](https://undervolt-atx.vercel.app)** | GPU-accelerated urban intelligence. 2.3M+ Austin permits analyzed. Surfaced 22:1 solar-to-battery ratio unknown to city planners. | 🥇 1st place, NVIDIA DGX AITX 2025 |
+| 🏏 | **[RefereAI](https://github.com/jravinder/sports-ai)** | AI sports referee with Cosmos Reason 2 for physical chain-of-thought over video. 5 sports, 3 analysis modes. Jetson AGX Orin. | NVIDIA Cosmos Cookoff |
+| 🤖 | **[Sideline](https://sideline-beige.vercel.app)** | Modular AI sports robot. Qwen VLM + confidence-threshold referee fallback. 4-person team, 6-hour build. | Nebius.Build SF |
+| 🏅 | **[CoachClaw](https://coachclaw-fresh.vercel.app)** | On-device AI coaching on GB10. 259K crime incidents + 21K food inspections for local safety context. | GTC Hack for Impact |
+| 🎨 | **[PromptSmith](https://github.com/jravinder/promptsmith)** | Reverse-engineer the creative recipe from any image. | GTC Hack to Create |
+| 💼 | **[Job Copilot](https://github.com/jravinder/job_copilot)** | AI job search: resume-job fit, tailored cover letters, cold emails, interview prep. | |
+| 📚 | **[StudyPal](https://github.com/jravinder/studypal-voice)** | Multimodal AI homework assistant. Voice tutoring via Gemini Live, Schoology sync. K–8. | Gemini Live Agent Challenge |
+| 🏠 | **[Homenest](https://github.com/jravinder/homenest)** | Home network intelligence. Device monitoring, analytics, Telegram alerts. | |
 
 ---
 
-## ⚙️ How I work
+### 🧬 Biotech research (new)
 
-Take vague problems → shipped products by end of day. Agentic engineering across multiple agents simultaneously. Every week the tools get better, every week the ambition scales.
+Open-source AI tools so anyone can research a disease with the same rigor a scientist would.
 
-7,000+ rare diseases have no dedicated AI tools. Amateur sports have no AI officiating. Small research teams can't afford what pharma companies have. Those are the gaps. That's where I build.
+- 🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app)** — Configurable research workspace for any disease. Gemma reads the papers. You ask the questions. ([repo](https://github.com/jravinder/biotech-research-hub))
+- 🧪 **[HD Research Hub](https://hd-research-agent.vercel.app)** — First workspace. Huntington's Disease. 75 papers analyzed, 42 drug candidates, 5 AlphaFold protein targets. ([repo](https://github.com/jravinder/hd-research-agent))
+
+---
+
+### 🏆 Recognition
+
+- 🥇 1st place — NVIDIA DGX Spark AITX Hackathon 2025 (Undervolt)
+- 🏆 Runner-up — NVIDIA GTC 2026 Hack to Create (Studio Copilot), showcased on NVIDIA Developer Live
+- 🌟 Xpanse Employee Spotlight, Xpanse Way Award
+- 🚀 ISMs in Action Award — Rocket Companies
+- ⭐ Employee of the Quarter — Compuware/Dynatrace
+- 🤝 Code Michigan, Detroit Java User Group (co-organizer), GiveCamp, International Open Data Hackathon
+
+---
+
+### ⚙️ How I work
+
+I take vague, ambiguous problems and turn them into shipped products. From working session to building by end of day. Agentic engineering across multiple agents simultaneously. I work across product, engineering, and architecture at the same time.
+
+The problems I'm tackling with agentic engineering bring renewed energy, challenging every assumption from the last decades. With these new tools there are no physical limitations in the software world. The productivity is limitless and we are reinventing every week, every day.
 
 ---
 
