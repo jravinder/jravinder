@@ -25,6 +25,8 @@ I also build across sports, energy, photography, biotech, and education. Two-tim
 
 🧪 **[HD Research Hub](https://hd-research-agent.vercel.app?utm_source=github&utm_medium=profile)** — 75 papers, 42 drug candidates, 5 AlphaFold targets. ([repo](https://github.com/jravinder/hd-research-agent))
 
+🎒 **[School Supply Run](https://www.schoolsupply.run?utm_source=github&utm_medium=profile)** — Turns a school supply list photo or PDF into a priced, shareable shopping run. Live for the 2026 school year.
+
 👉 **[See all projects →](https://github.com/jravinder?tab=repositories&sort=updated)**
 
 ---
