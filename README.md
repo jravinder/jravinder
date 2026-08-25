@@ -33,7 +33,7 @@ I also build across sports, energy, photography, biotech, and education. Two-tim
 
 ### 💼 Professional
 
-**Director, GenAI Product & Engineering — Xpanse** `2024 – Present`
+**Director, GenAI Product & Engineering — [Xpanse](https://www.xpanse.com/)** `2024 – Present`
 Multi-tenant GenAI platform. Call intelligence, document intelligence, VLM research pipelines. 45+ team.
 
 **Founder — [AISOFT LLC](https://aisoft.us?utm_source=github&utm_medium=profile)** `2022 – Present`
