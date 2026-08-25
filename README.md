@@ -21,11 +21,11 @@ I also build across sports, energy, photography, biotech, and education. Two-tim
 
 🥇 **[Undervolt](https://undervolt-atx.vercel.app?utm_source=github&utm_medium=profile)** — GPU-accelerated urban intelligence. 1st place, NVIDIA DGX AITX 2025.
 
-🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app?utm_source=github&utm_medium=profile)** — Open-source research workspace for any disease. Powered by Gemma. ([repo](https://github.com/jravinder/biotech-research-hub))
+🎒 **[School Supply Run](https://www.schoolsupply.run?utm_source=github&utm_medium=profile)** — Turns a school supply list photo or PDF into a priced, shareable shopping run. Live for the 2026 school year.
 
 🧪 **[HD Research Hub](https://hd-research-agent.vercel.app?utm_source=github&utm_medium=profile)** — 75 papers, 42 drug candidates, 5 AlphaFold targets. ([repo](https://github.com/jravinder/hd-research-agent))
 
-🎒 **[School Supply Run](https://www.schoolsupply.run?utm_source=github&utm_medium=profile)** — Turns a school supply list photo or PDF into a priced, shareable shopping run. Live for the 2026 school year.
+🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app?utm_source=github&utm_medium=profile)** — Open-source research workspace for any disease. Powered by Gemma. ([repo](https://github.com/jravinder/biotech-research-hub))
 
 👉 **[See all projects →](https://github.com/jravinder?tab=repositories&sort=updated)**
 
@@ -33,7 +33,7 @@ I also build across sports, energy, photography, biotech, and education. Two-tim
 
 ### 💼 Professional
 
-**Director, GenAI Product & Engineering — [Xpanse AI](https://aisoft.us?utm_source=github&utm_medium=profile)** `2024 – Present`
+**Director, GenAI Product & Engineering — Xpanse** `2024 – Present`
 Multi-tenant GenAI platform. Call intelligence, document intelligence, VLM research pipelines. 45+ team.
 
 **Founder — [AISOFT LLC](https://aisoft.us?utm_source=github&utm_medium=profile)** `2022 – Present`
