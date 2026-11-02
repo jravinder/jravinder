@@ -27,6 +27,8 @@ I also build across sports, energy, photography, biotech, and education. Two-tim
 
 🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app?utm_source=github&utm_medium=profile)** — Open-source research workspace for any disease. Powered by Gemma. ([repo](https://github.com/jravinder/biotech-research-hub))
 
+🛠️ **[Debug Drills](https://github.com/jravinder/debug-drills)** — Practice kits for leading an AI coding agent through an unfamiliar codebase: find, fix and prove real faults. MIT.
+
 👉 **[See all projects →](https://github.com/jravinder?tab=repositories&sort=updated)**
 
 ---
