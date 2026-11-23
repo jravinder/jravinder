@@ -23,9 +23,21 @@ I also build across sports, energy, photography, biotech, and education. Two-tim
 
 🎒 **[School Supply Run](https://www.schoolsupply.run?utm_source=github&utm_medium=profile)** — Turns a school supply list photo or PDF into a priced, shareable shopping run. Live for the 2026 school year.
 
-🧪 **[HD Research Hub](https://hd-research-agent.vercel.app?utm_source=github&utm_medium=profile)** — 75 papers, 42 drug candidates, 5 AlphaFold targets. ([repo](https://github.com/jravinder/hd-research-agent))
+📚 **[StudyPal](https://studypal.space?utm_source=github&utm_medium=profile)** — Homework companion from AISOFT that turns a worksheet photo into a guided lesson and practice, built to teach rather than hand over the answer.
 
-🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app?utm_source=github&utm_medium=profile)** — Open-source research workspace for any disease. Powered by Gemma. ([repo](https://github.com/jravinder/biotech-research-hub))
+🧠 **[BrainBox](https://brainbox.aisoft.us?utm_source=github&utm_medium=profile)** — Private, on-device AI for your archive: search and source-linked answers on a machine you own.
+
+⚡ **[Base AITX](https://base-aitx.vercel.app/web/start.html?utm_source=github&utm_medium=profile)** — Base Power × AITX Talent Hackathon (Sep 2026) build, extended into a case study: records-first battery onboarding and local AI next to a Base battery. ([repo](https://github.com/jravinder/base-aitx))
+
+🛠️ **[debug-drills](https://github.com/jravinder/debug-drills)** — Practice kits for leading an AI coding agent through an unfamiliar codebase: find, fix, and prove real faults.
+
+🔎 **[TXLookup](https://txlookup.xyz?utm_source=github&utm_medium=profile)** — Ask Texas a question in plain English across thousands of public datasets.
+
+🤖 **[Twirbo](https://www.twirbo.com?utm_source=github&utm_medium=profile)** — Kids tell a robot where to go, from picture blocks (ages 5–9) up to Python and FLL practice (ages 9–14).
+
+🧪 **[HD Research Hub](https://hd-research-agent.vercel.app?utm_source=github&utm_medium=profile)** — 75 papers, 42 drug candidates, 5 AlphaFold targets.
+
+🔬 **[Biotech Research Studio](https://biotech-research-hub.vercel.app?utm_source=github&utm_medium=profile)** — Open-source research workspace for any disease. Powered by Gemma.
 
 👉 **[See all projects →](https://github.com/jravinder?tab=repositories&sort=updated)**
 
